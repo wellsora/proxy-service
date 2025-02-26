@@ -1,0 +1,9 @@
+# env files
+.env
+
+# app engine yaml files
+proxy-api.yaml
+proxy-api-prod.yaml
+
+# node_modules
+node_modules
